@@ -1,3 +1,7 @@
+//Question
+//Consider two Integers m and n. Calculate the sum of the cubes of the integer values m to n. If m is greater than n return 0 or display the proper message.
+
+
 import java.util.*;
 
 class HelloWorld {
