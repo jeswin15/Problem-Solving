@@ -21,7 +21,7 @@ class HelloWorld {
             for(int i=m;i<=n;i++){
                 sum+=i*i;       
             }
-        System.out.print("Enter the value of N: "+sum);    
+        System.out.print("Su of Squares : "+sum);    
         }
        
 
